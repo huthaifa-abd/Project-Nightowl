@@ -7,7 +7,6 @@
 
 
 ## Technologies
- * Technologies
  * Storage Long Term - HDFS
  * Image Processing Engine - TBD
  * Streaming Service - Kafka
