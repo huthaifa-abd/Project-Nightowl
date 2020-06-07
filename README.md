@@ -1,6 +1,6 @@
 # Project Nightowl
 
- Nightowl us an intelligent surveillance tracking system utilizing IoT / Bigdata Technologies
+ Nightowl is an intelligent surveillance tracking system utilizing IoT / Bigdata Technologies
 
 # Summary
  The solution processes surveillance camera streams to identify faces and license plates generating live tracking data on a 3d world map.
