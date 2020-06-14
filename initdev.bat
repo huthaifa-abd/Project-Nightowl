@@ -1,6 +1,7 @@
 echo off
 ECHO Initialize Development Environment PROJECT NIGHTOWL V0.1
 ECHO Initialize Video Processing Unit Dependencies
+ECHO Important: Dont forget to start ftp server on localhost:21 and configure your cameras to save videos to it
 mkdir VideoProcessingUnit
 git clone https://github.com/ageitgey/face_recognition.git VideoProcessingUnit
 xcopy "initvpu.sh" "VideoProcessingUnit" /S
